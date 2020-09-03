@@ -1,5 +1,4 @@
-# CS344
-## smallShell - assignment 2 
+## smallShell
 ### David Vega
 
 Hello thank you for reviewing my assignment. 
